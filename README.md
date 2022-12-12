@@ -49,6 +49,6 @@
 <div>
   </br>
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitmiahra4&theme=radical&langs_count=8" alt="me" height="260px" width="25%" />
+  [![Arpit Mishra's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitmiahra4)](https://github.com/arpitmiahra4/github-readme-stats)
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=arpitmiahra4&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
