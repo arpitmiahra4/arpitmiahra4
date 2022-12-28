@@ -42,12 +42,18 @@
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
 <br>
-<h2 align="center">📊 My Github Stats<h2>
-<div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitmiahra4&theme=radical" alt="Samruddhi" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=arpitmiahra4&show_icons=true&theme=radical" height="255px" width="47%"/>
-<div>
-  </br>
-<div>
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=arpitmiahra4&hide_border=true&area=true" height="255px" width="70%"/>
-<div>
+<h2 align="center">📊 My Github Stats</h2>
+         <br/>   
+          <p align="center">      
+        <img alt="arpitmiahra4 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitmiahra4&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+            </p>      
+           <br/>
+         <p align="center">
+              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="arpitmiahra4 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitmiahra4&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+        </p>                                                                                                                                              
+      
+        <br/>
+        <br/>
+           <p align="center">                                                                                                 
+          <img alt="arpitmiahra4 Github Stats" src="https://github-readme-stats.vercel.app/api?username=arpitmiahra4&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
+          </p>      
