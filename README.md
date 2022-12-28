@@ -50,10 +50,8 @@
            <br/>
          <p align="center">
               <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="arpitmiahra4 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitmiahra4&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-        </p>                                                                                                                                              
-      
-        <br/>
-        <br/>
-           <p align="center">                                                                                                 
+             <p align="center">                                                                                                 
           <img alt="arpitmiahra4 Github Stats" src="https://github-readme-stats.vercel.app/api?username=arpitmiahra4&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
-          </p>      
+          </p>                                                                
+      <br/>
+      <br/>
