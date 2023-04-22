@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **arpitmiahra4@gmail.com**
 
-- ⚡ Fun fact **While sleeping my mind is Debugging my code..**
+- ⚡ Fun fact **While Sleeping my mind is Debugging my code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
