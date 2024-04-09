@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966)](https://arpitmiahra4@gmail.com)
+<p align="center"><img width="100" align="center" src="https://cdn-icons-png.flaticon.com/512/10061/10061736.png"></p>
 <h1 align="center">Hi 👋, I'm Arpit Mishra</h1>
 <h3 align="center">A passionate Full-Stack developer {MERN Stack} from Indore.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
