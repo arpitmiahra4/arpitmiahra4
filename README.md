@@ -1,60 +1,62 @@
-<p align="center"><img width="100" align="center" src="https://cdn-icons-png.flaticon.com/512/10061/10061736.png"></p>
-<h1 align="center">Hi 👋, I'm Arpit Mishra</h1>
-<h3 align="center">A passionate Full-Stack developer {MERN Stack} from Indore.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<h1 align="center">Hi 👋, The Name Is Arpit Mishra</h1>
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Digital+Marketing+Expert;Quick+learner;Problem+Solver;&color=teal&center=true" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l5o174j0zohrwmjjk1zc2w82swqc0fk42xwjp33t&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitmiahra4&label=Profile%20views&color=0e75b6&style=flat" alt="arpitmiahra4" /> </p>
+### Summary
+With a solid foundation in web development technologies such as the MERN stack, HTML, CSS, and JavaScript, as well as expertise in SEO and online advertising. confident and able to deliver high-quality, user-friendly, SEO-friendly websites and digital marketing campaigns. well-rounded candidate capable of handling various tasks and responsibilities in the tech industry.
 
+# 💫 About Me:
+👯 I’m looking to collaborate on Good Tech Skills<br>
+🌱 I’m currently learning Full Stack Web Development<br>
+💬 Ask me about Coding...<br>
+👯 Interested in AI technologies...<br>
+👯 Self Motivated<br>
+⚡ Quick learner<br>
+💬 Ask me about MongoDB, Express, React, Node, Javascript, HTML, CSS, DSA, Digital Marketing<br>
 
-<p align="left"> <a href="https://twitter.com/arpitmiahra4" target="blank"><img src="https://img.shields.io/twitter/follow/arpitmiahra4?logo=twitter&style=for-the-badge" alt="arpitmiahra4" /></a> </p>
+📫 How to reach me: [arpitmiahra4@gmail.com](https://arpitmishraportfolio.vercel.app/)<br>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJs, NodeJs, Express, MongoDB, Mongoose, REST_API, ElectronJs, Git & Bash**
+⚡ Want to Know More About Experience: [Check out My Resume](https://drive.google.com/file/d/1EO292lCbCL84BSpWxFVvUlVQTDhia5Vr/view?usp=sharing)<br>
 
-- 👨‍💻 Checkout my [Portfolio](https://arpitmishraportfolio.vercel.app/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
-
- <!-- Resume -->
--  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1EO292lCbCL84BSpWxFVvUlVQTDhia5Vr/view?usp=share_link) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
-
-- 📫 How to reach me **arpitmiahra4@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
-
-- ⚡ Fun fact **While Sleeping my mind is Debugging my code.** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+Want to know more about me? [Check out My Portfolio]((https://arpitmishraportfolio.vercel.app/))
 
 <h3 align="left">Connect with me:</h3>
+<ul>
+<li>
+  <a href="www.linkedin.com/in/mishrajiii" target="blank">Linkedin</a></li>
+  <li>
+    <a href="https://arpitmishraportfolio.vercel.app/" target="blank">Portfolio</a>
+  </li>
+</ul>
+
+
+
+
+
+
+<h3>Languages & Tech <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></h3> 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+
+
+<br/>
+
+<h2 align="center" margin-top="20px"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
+<hr>
 <p align="left">
-<a href="https://twitter.com/arpitmiahra4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpitmiahra4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arpit mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit mishra" height="30" width="40" /></a>
-<a href="https://fb.com/arpit mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arpit mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/a_r_p_i_t_m_ishra__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_r_p_i_t_m_ishra__" height="30" width="40" /></a>
+<a href="https://github.com/arpitmiahra4">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=arpitmiahra4&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arpitmiahra4&layout=compact&langs_count=8&theme=algolia"/>
+  <p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arpitmiahra4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></p>
+</a>
 </p>
+<hr>
 
-## 🚀 Languages and Tools:
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,hibernate,react,nodejs,bootstrap,cpp,git,netlify,idea,eclipse,vscode,figma,ps,redux,tailwind,materialui,vercel,vscode,postman,nextjs,express)](https://skillicons.dev)
-
-<br>
-<h2 align="center">📊 My Github Stats</h2>
-         <br/>   
-          <p align="center">      
-        <img alt="arpitmiahra4 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitmiahra4&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-            </p>      
-           <br/>
-         <p align="center">
-              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="arpitmiahra4 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitmiahra4&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-             <p align="center">                                                                                                 
-          <img alt="arpitmiahra4 Github Stats" src="https://github-readme-stats.vercel.app/api?username=arpitmiahra4&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
-          </p>                                                                
-      <br/>
-      <div align="center"  >
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arpitmiahra4&column=7&theme=onedark"" />
-  </a>
-<div>
-      <br/>
-<p align="center">
-  <i>Ask me anything I'am Happy to Help! </i>
-  <br><br>
-<a target="_blank" href="https://www.linkedin.com/in/arpit-mishra-662199222/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:arpitmiahra4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<br>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arpitmiahra4&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
