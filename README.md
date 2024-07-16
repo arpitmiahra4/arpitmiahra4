@@ -5,8 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l5o174j0zohrwmjjk1zc2w82swqc0fk42xwjp33t&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitmiahra4&label=Profile%20views&color=0e75b6&style=flat" alt="arpitmiahra4" /> </p>
-### Summary
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitmiahra4&label=Profile%20views&color=0e75b6&style=flat" alt="arpitmiahra4" /> </p><br/>
+<h1 align="left"> 💫 Summary</h3>
+
 With a solid foundation in web development technologies such as the MERN stack, HTML, CSS, and JavaScript, as well as expertise in SEO and online advertising. confident and able to deliver high-quality, user-friendly, SEO-friendly websites and digital marketing campaigns. well-rounded candidate capable of handling various tasks and responsibilities in the tech industry.
 
 # 💫 About Me:
