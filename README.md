@@ -8,7 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitmiahra4&label=Profile%20views&color=0e75b6&style=flat" alt="arpitmiahra4" /> </p><br/>
 <h1 align="left"> 💫 Summary</h3>
 
-With a solid foundation in web development technologies such as the MERN stack, HTML, CSS, and JavaScript, as well as expertise in SEO and online advertising. confident and able to deliver high-quality, user-friendly, SEO-friendly websites and digital marketing campaigns. well-rounded candidate capable of handling various tasks and responsibilities in the tech industry.
+UI Innovator | MERN Stack Expert with 2+ Years of Experience
+Leading UI innovation at Ebizeo India. Former SDE at Wishfy & The Cloud Box. Skilled in ReactJS, Redux-Toolkit, and modern UI frameworks like TailwindCSS, ChakraUI, and MaterialUI. Proven ability to build scalable web applications and lead teams to deliver user-focused solutions.
 
 # 💫 About Me:
 👯 I’m looking to collaborate on Good Tech Skills<br>
