@@ -11,12 +11,12 @@
 🚀 Dev Team Lead @ Sentara Health | 🎯 UI Trailblazer @ Ebizeo India | 💻 Ex-SDE @ Wishfy & The Cloud Box | ⚛️ ReactJS & Redux Toolkit Pro | 🌐 MERN Stack Specialist (4+ Yrs)
 
 # 💫 About Me:
-👯 I’m looking to collaborate on IT Recruitment, Job Support, and Tech Projects
-🌱 I’m currently learning AI tools integration, automation, and advanced web development
-💬 Ask me about IT hiring trends, freelance job support, tech stack recommendations, and project execution
-🤖 Interested in AI technologies, ChatGPT integrations, and digital transformation solutions
-🚀 Self-motivated & goal-driven
-⚡ Quick learner with a knack for adapting to new tools and technologies
+👯 I’m looking to collaborate on IT Recruitment, Job Support, and Tech Projects<br>
+🌱 I’m currently learning AI tools integration, automation, and advanced web development<br>
+💬 Ask me about IT hiring trends, freelance job support, tech stack recommendations, and project execution<br>
+🤖 Interested in AI technologies, ChatGPT integrations, and digital transformation solutions<br>
+🚀 Self-motivated & goal-driven<br>
+⚡ Quick learner with a knack for adapting to new tools and technologies<br>
 💬 Ask me about MERN Stack (MongoDB, Express, React, Node), JavaScript, HTML, CSS, DSA, Digital Marketing, and AI-based tools for productivity<br>
 
 📫 How to reach me: [arpitmiahra4@gmail.com](https://arpitmishraportfolio.vercel.app/)<br>
