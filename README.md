@@ -8,17 +8,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitmiahra4&label=Profile%20views&color=0e75b6&style=flat" alt="arpitmiahra4" /> </p><br/>
 <h1 align="left"> 💫 Summary</h3>
 
-UI Innovator | MERN Stack Expert with 2+ Years of Experience
-Leading UI innovation at Ebizeo India. Former SDE at Wishfy & The Cloud Box. Skilled in ReactJS, Redux-Toolkit, and modern UI frameworks like TailwindCSS, ChakraUI, and MaterialUI. Proven ability to build scalable web applications and lead teams to deliver user-focused solutions.
+🚀 Dev Team Lead @ Sentara Health | 🎯 UI Trailblazer @ Ebizeo India | 💻 Ex-SDE @ Wishfy & The Cloud Box | ⚛️ ReactJS & Redux Toolkit Pro | 🌐 MERN Stack Specialist (4+ Yrs)
 
 # 💫 About Me:
-👯 I’m looking to collaborate on Good Tech Skills<br>
-🌱 I’m currently learning Full Stack Web Development<br>
-💬 Ask me about Coding...<br>
-👯 Interested in AI technologies...<br>
-👯 Self Motivated<br>
-⚡ Quick learner<br>
-💬 Ask me about MongoDB, Express, React, Node, Javascript, HTML, CSS, DSA, Digital Marketing<br>
+👯 I’m looking to collaborate on IT Recruitment, Job Support, and Tech Projects
+🌱 I’m currently learning AI tools integration, automation, and advanced web development
+💬 Ask me about IT hiring trends, freelance job support, tech stack recommendations, and project execution
+🤖 Interested in AI technologies, ChatGPT integrations, and digital transformation solutions
+🚀 Self-motivated & goal-driven
+⚡ Quick learner with a knack for adapting to new tools and technologies
+💬 Ask me about MERN Stack (MongoDB, Express, React, Node), JavaScript, HTML, CSS, DSA, Digital Marketing, and AI-based tools for productivity<br>
 
 📫 How to reach me: [arpitmiahra4@gmail.com](https://arpitmishraportfolio.vercel.app/)<br>
 
