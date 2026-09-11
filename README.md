@@ -30,7 +30,7 @@ Want to know more about me? [Check out My Portfolio](https://arpit-mishra-profil
 <li>
   <a href="www.linkedin.com/in/mishrajiii" target="blank">Linkedin</a></li>
   <li>
-    <a href="https://arpitmishraportfolio.vercel.app/" target="blank">Portfolio</a>
+    <a href="https://arpit-mishra-profile.vercel.app/" target="blank">Portfolio</a>
   </li>
 </ul>
 
