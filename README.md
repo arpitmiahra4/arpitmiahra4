@@ -23,7 +23,7 @@
 
 ⚡ Want to Know More About Experience: [Check out My Resume](https://drive.google.com/file/d/1EO292lCbCL84BSpWxFVvUlVQTDhia5Vr/view?usp=sharing)<br>
 
-Want to know more about me? [Check out My Portfolio](https://arpitmishraportfolio.vercel.app/)
+Want to know more about me? [Check out My Portfolio](https://arpit-mishra-profile.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <ul>
